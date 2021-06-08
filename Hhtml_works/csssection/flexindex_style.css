@@ -1,0 +1,26 @@
+.row{
+    width: 850px;
+    height: 600px;
+    border: 1px black solid;
+    background-color: blanchedalmond;
+    display: flex;
+    /*justify-content:space-evenly;
+
+    align-items:center;*/
+}
+.col{
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.col_1{
+    background-color: blue;
+}
+.col_2{
+    background-color: blueviolet;
+    flex: 1;
+}
+.col_3{
+    background-color: chartreuse;
+}

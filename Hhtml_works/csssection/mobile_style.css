@@ -1,0 +1,26 @@
+.main-head{
+    text-align: center;
+    color: purple;
+}
+.sub{
+    color: red;
+}
+.main{
+  /*  border-width: 1px;
+    border-style: solid;
+    border-color: saddlebrown;*/
+    border: white 2px solid;
+    width: 200px;
+    height: 300px;
+   
+    background-color: salmon;
+    float: left;
+}
+.galaxy-div{
+    background-color: seagreen;
+    
+}
+.main h1{
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+
+.main_head{
+    text-align: center;
+    color:white;
+}
+
+
+.main{
+    border: red  2px solid;
+    width: 300px;
+    height: 500px;
+    text-emphasis-color:white ;
+    text-align: center;
+    background-color: blue;
+    float: left;
+    color: white;
+
+}
+h1{
+   color: white; 
+}
+
+.life{
+    background-color: red;
+}

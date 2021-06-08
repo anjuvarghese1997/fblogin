@@ -1,0 +1,43 @@
+.row{
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+    position: relative;
+    margin-top: 10px;
+}
+.col_1, .col_2, .col_3{
+    width: 100px;
+    height: 100px;
+    border: 1px solid blue;
+}
+.col_1{
+    background-color: blueviolet;
+    
+    
+}
+.col_2{
+    background-color: brown;
+position: absolute;
+top: 0;
+left: 22%;
+}
+.col_3{
+    background-color:red;
+    position: absolute;
+    top: 0;
+    left: 44%;
+}
+
+.fixed_div{
+    background-color: seagreen ;
+    width: 100px;
+    height: 100px;border: black 1px solid;
+    position: fixed;
+
+}
+.sticky{
+    background-color: blueviolet;
+    position: sticky;
+    top: 10px;
+}

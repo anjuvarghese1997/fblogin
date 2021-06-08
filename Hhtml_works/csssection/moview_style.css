@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.main_head{
+    text-align: center;
+    font-family: 'permanent marker', cursive ;
+}
+
+.row{
+    width:600px;
+    height: 600px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    position: relative;
+}
+
+.col1, .col2, .col3{
+    border: black 1px solid;
+    width: 200px;
+    
+    height: 200px;
+}
+
+.col1 img, .col2 img,.col3 img{
+    width: 50%;
+    height: 50%;
+}
+.col2{
+    background-color: chartreuse;
+  position: absolute;
+  top: 0;
+  left: 150px;
+}

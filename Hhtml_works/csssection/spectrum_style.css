@@ -1,0 +1,248 @@
+body{
+    background-color: white;
+}
+
+.main_head{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.cl1{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 325px;
+    
+    background-color: blue;
+}
+
+.cl2{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 15px;
+    
+    
+    background-color:brown;
+}
+
+.cl3{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 15px;
+    
+    
+    background-color: chartreuse;
+}
+
+.cl4{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 15px;
+   
+    background-color: cyan;
+}
+
+.cl5{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 15px;
+    
+    background-color: darkorange;
+}
+
+.cl6{
+    border: solid 2px black;
+  
+    width: 100px;
+    height: 200px;
+    margin-left: 200px;
+    
+    margin-top: 250px;
+    background-color: darkorchid;
+    
+}
+
+.cl7{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 325px;
+    
+    margin-top: -205px;
+    background-color: darkred;
+    
+}
+
+.cl8{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 445px;
+    
+    margin-top: -205px;
+    background-color: deeppink;
+    
+}
+
+.cl9{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 565px;
+    
+    margin-top: -205px;
+    background-color: firebrick;
+}
+
+.cl10{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 685px;
+    
+    margin-top: -205px;
+    background-color: goldenrod;
+}
+
+.cl11{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 800px;
+    
+    margin-top: -205px;
+    background-color: green;
+    
+}
+.cl12{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 925px;
+    
+    margin-top: -205px;
+    background-color: hotpink;
+    
+}
+
+.cl13{
+    border: solid 2px black;
+   
+    width: 100px;
+    height: 200px;
+    margin-left: 85px;
+    margin-top: 30px;
+    
+    background-color: hotpink;
+    
+}
+
+.cl14{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: -202px;
+    background-color: indigo;
+    
+    
+}
+
+.cl15{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -202px;
+    background-color: lawngreen;
+    
+    
+}
+
+.cl16{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -202px;
+    
+    background-color: lightcoral;
+    
+}
+
+.cl17{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -202px;
+    
+    background-color: lightseagreen;
+    
+}
+.cl18{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -202px;
+    background-color: limegreen;
+    
+    
+}
+
+.cl19{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -202px;
+    background-color: maroon;
+    
+    
+}
+
+.cl20{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -202px;
+    
+    background-color: mediumblue;
+    
+}
+.cl21{
+    border: solid 2px black;
+    float: left;
+    width: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: -202px;
+    
+    background-color: mediumpurple;
+    
+}
