@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(102, 80, 52);
+    padding: 20px;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+input[type="submit"]{
+  
+    
+    padding: 10px 10px;
+    border: 2px solid rgba(9, 17, 5, 0.144);
+    margin-top: 12px;
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+    
+
+}
+.right-pane h1{
+    font-family: serif;
+    font-weight: 500;
+}
+.right-pane input[type="text"]
+{
+    height: 40px;
+    width: 80%;
+    margin-bottom: 8px;
+    border: 0;
+    border-bottom: 1px solid black;
+}
+.right-pane{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: 50%;
+    padding: 40px 40px;
+}
+
